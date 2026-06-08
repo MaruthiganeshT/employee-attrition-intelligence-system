@@ -1,0 +1,56 @@
+Feature,Importance
+TotalWorkingYears,0.06479656700882881
+JobLevel,0.048489850043060445
+YearsSinceLastPromotion,0.0398483951354702
+NumCompaniesWorked,0.03752033003572529
+YearsWithCurrManager,0.036470106190766675
+JobRole_Laboratory Technician,0.03371116784278227
+OverTime_No,0.028014741542919167
+DistanceFromHome,0.023939390043884852
+TotalSatisfaction,0.0195322622807353
+Age,0.01746888285522555
+BusinessTravel_Travel_Frequently,0.01742223855134336
+EnvironmentSatisfaction,0.016308839165270657
+OverTime_Yes,0.016095237636224273
+JobInvolvement,0.014263108743590412
+BusinessTravel_Non-Travel,0.01250334523740391
+MaritalStatus_Divorced,0.010725547007498809
+WorkLifeBalance,0.010666018209703657
+DailyRate,0.010470752008490937
+PercentSalaryHike,0.009971406060381306
+YearsAtCompany,0.00917978696110621
+JobRole_Sales Representative,0.0083831123447369
+MaritalStatus_Single,0.008210440630763894
+JobRole_Research Director,0.008090009907783769
+StockOptionLevel,0.007889190429081604
+OvertimeSatisfactionRisk,0.0073835040411918615
+JobRole_Healthcare Representative,0.006763848959753275
+YearsInCurrentRole,0.00652328438232173
+EducationField_Other,0.00515025599440095
+TrainingTimesLastYear,0.004704436369651268
+Department_Sales,0.004569233700781316
+CareerStability,0.004455649454066373
+MonthlyIncome,0.00435114792087042
+IncomePerYearAtCompany,0.0036371784295229667
+JobSatisfaction,0.0033445725169263195
+JobRole_Manager,0.002419318737278794
+PerformanceRating,0.0018353678945277256
+JobRole_Human Resources,0.0017718548641903593
+EducationField_Technical Degree,0.0016788072020603897
+EducationField_Human Resources,0.0015909693871063342
+JobRole_Manufacturing Director,0.0010438259335028939
+Department_Human Resources,0.0007042772432752333
+Department_Research & Development,0.0005824503391343607
+Gender_Female,0.00020713180245545158
+EducationField_Life Sciences,0.00020031158060736644
+RelationshipSatisfaction,0.0001839351373584325
+EducationField_Medical,6.243290157426258e-05
+Education,0.0
+MonthlyRate,0.0
+HourlyRate,0.0
+EducationField_Marketing,0.0
+BusinessTravel_Travel_Rarely,0.0
+Gender_Male,0.0
+JobRole_Sales Executive,0.0
+JobRole_Research Scientist,0.0
+MaritalStatus_Married,0.0
